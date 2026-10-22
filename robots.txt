@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://dergano.online
-Sitemap: https://dergano.online/sitemap.xml
+Host: https://coxy.club
+Sitemap: https://coxy.club/sitemap.xml
